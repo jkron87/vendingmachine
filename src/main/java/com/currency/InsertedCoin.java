@@ -1,8 +1,5 @@
 package com.currency;
 
-/**
- * Created by jenniferkron on 1/31/17.
- */
 public class InsertedCoin {
     private double weight;
     private double diameter;
